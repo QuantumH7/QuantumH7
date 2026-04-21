@@ -1,9 +1,9 @@
 <h2 align="left">💻 PROGRAMMING LANGUAGES</h2>
 
 <p>
-  <img style="height:60px;" src="https://img.shields.io/badge/Java-1E4DB7?style=for-the-badge&logo=java&logoColor=white"/>
-  <img style="height:60px;" src="https://img.shields.io/badge/Python-2D79C7?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img style="height:60px;" src="https://img.shields.io/badge/JavaScript-F2C230?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img style="height:50px;" src="https://img.shields.io/badge/Java-1E4DB7?style=for-the-badge&logo=java&logoColor=white"/>
+  <img style="height:50px;" src="https://img.shields.io/badge/Python-2D79C7?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img style="height:50px;" src="https://img.shields.io/badge/JavaScript-F2C230?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 <br>
@@ -11,11 +11,11 @@
 <h2 align="left">⚙️ FRAMEWORKS</h2>
 
 <p>
-  <img style="height:60px;" src="https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white"/>
-  <img style="height:60px;" src="https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img style="height:60px;" src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img style="height:60px;" src="https://img.shields.io/badge/Vue.js-059669?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img style="height:60px;" src="https://img.shields.io/badge/Svelte-F97316?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img style="height:50px;" src="https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white"/>
+  <img style="height:50px;" src="https://img.shields.io/badge/Node.js-22C55E?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img style="height:50px;" src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img style="height:50px;" src="https://img.shields.io/badge/Vue.js-059669?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img style="height:50px;" src="https://img.shields.io/badge/Svelte-F97316?style=for-the-badge&logo=svelte&logoColor=white"/>
 </p>
 
 <p>
