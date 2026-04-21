@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🛠️ Skills
 
-<!--
-**QuantumH7/QuantumH7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
+</p>
 
-Here are some ideas to get you started:
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
