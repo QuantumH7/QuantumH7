@@ -1,7 +1,7 @@
 <h2 align="left">💻 PROGRAMMING LANGUAGES</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-1E4DB7?style=for-the-badge&logo=java&logoColor=white"/>
+  <img height="45" src="https://img.shields.io/badge/Java-1E4DB7?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-2D79C7?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/JavaScript-F2C230?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
