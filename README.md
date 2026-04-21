@@ -8,7 +8,7 @@
 
 <br>
 
-<h2 align="left">⚙️ FRAMEWORKS (JavaScript)</h2>
+<h2 align="left">⚙️ FRAMEWORKS</h2>
 
 <p>
   <img src="https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white"/>
@@ -20,22 +20,20 @@
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DC2626?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ember.js-E11D48?style=for-the-badge&logo=emberdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-16A34A?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gatsby-7C3AED?style=for-the-badge&logo=gatsby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-374151?style=for-the-badge"/>
 </p>
 
 <br>
 
-<h2 align="left">📦 LIBRARIES (JavaScript)</h2>
+<h2 align="left">📦 LIBRARIES</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/jQuery-2563EB?style=for-the-badge&logo=jquery&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Axios-F59E0B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Redux-7C3AED?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Moment.js-16A34A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lodash-E11D48?style=for-the-badge"/>
+  
 </p>
 
 <p>
