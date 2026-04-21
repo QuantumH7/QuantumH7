@@ -1,3 +1,14 @@
+## About Me
+
+My name is Abera Hagazi Berhe, a Software Engineering student and full-stack developer who enjoys building practical and efficient web applications.  
+
+I work on both front-end and back-end development, focusing on clean design, performance, and real-world problem solving.  
+
+I like turning ideas into fully functional projects and improving existing systems to make them better and more useful.  
+
+I’m always focused on writing clean, maintainable code and building solutions that actually work in real environments.
+
+
 <h2 align="left">💻 PROGRAMMING LANGUAGES</h2>
 
 <p>
