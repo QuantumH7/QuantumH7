@@ -31,16 +31,14 @@
 <p>
   
   <img src="https://img.shields.io/badge/Axios-F59E0B?style=for-the-badge"/>
- 
-  
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-4F46E5?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/D3.js-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Chart.js-F43F5E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Three.js-6D28D9?style=for-the-badge"/>
+ 
+  
 </p>
+
 
 
