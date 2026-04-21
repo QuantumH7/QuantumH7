@@ -44,10 +44,4 @@
   <img src="https://img.shields.io/badge/Three.js-6D28D9?style=for-the-badge"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Alpine.js-F97316?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Swiper.js-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LocalForage-0F766E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Day.js-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Noty-6B7280?style=for-the-badge"/>
-</p>
+
