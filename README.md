@@ -31,8 +31,7 @@
 <p>
   
   <img src="https://img.shields.io/badge/Axios-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Redux-7C3AED?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Moment.js-16A34A?style=for-the-badge"/>
+ 
   
 </p>
 
